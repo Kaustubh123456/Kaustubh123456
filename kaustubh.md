@@ -1,6 +1,6 @@
-- 👋 Hi, I’m HITESH PAKHAN
-- 🌱 I’m currently doing Computer Science and Engineering at GNIT Collage Nagpur
-- 💞️ Mobile Number : 9637754757 / 8698506731
-- 📫 GMAIL : hitesh5pakhan@gmail.com
-- 👀 LINKDIN : https://www.linkedin.com/in/hitesh-pakhan-501451171
-- 👀 GIT HUB : https://github.com/hiteshpakhan
+- 👋 Hi, I’m KAUSTUBH PURI
+- 🌱 I’m currently doing Computer Engineering at DR D DY PATIL COLLEGE OF ENGINEERING AND INNOVATION,VARALE
+- 💞️ Mobile Number : 8007659506 / 9579383758
+- 📫 GMAIL : kaustubhpuri10111999@gmail.com
+- 👀 LINKDIN : 
+- 👀 GIT HUB : https://github.com/Kaustubhpuri
